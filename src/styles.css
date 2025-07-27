@@ -1,4 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+:root {
+  --brand-primary: #7b8e90;
+  --brand-secondary: #a5b6b8;
+  --brand-tertiary: #c6cdce;
+  --brand-quaternary: #d2c8bf;
+  --brand-quinary: #e7e5e1;
+}
 
 * {
   margin: 0;
